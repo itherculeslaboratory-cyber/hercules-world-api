@@ -1,1 +1,1 @@
-# hercules-world-api
+# hercules-world
